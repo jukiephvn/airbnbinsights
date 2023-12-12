@@ -1,0 +1,29 @@
+:root {
+  --dark-red: rgba(255, 90, 95, 1);
+  --light-dark-red: rgba(255, 111, 115, 1);
+  --red: rgba(255, 146, 149, 1);
+  --light-red: rgba(255, 178, 180, 1);
+  --basegray-80: rgba(74, 86, 96, 1);
+  --basegray-40: rgba(181, 190, 198, 1);
+  --basewhite: rgba(255, 255, 255, 1);
+  --secondary-100: rgba(240, 77, 35, 1);
+  --h5-font-family: "AvenirNext LT Pro-Demi", Helvetica;
+  --h5-font-weight: 400;
+  --h5-font-size: 14px;
+  --h5-letter-spacing: 0px;
+  --h5-line-height: 14px;
+  --h5-font-style: normal;
+  --overline-font-family: "AvenirNext LT Pro-Demi", Helvetica;
+  --overline-font-weight: 400;
+  --overline-font-size: 10px;
+  --overline-letter-spacing: 1.5px;
+  --overline-line-height: 12px;
+  --overline-font-style: normal;
+  --h4-font-family: "AvenirNext LT Pro-Demi", Helvetica;
+  --h4-font-weight: 400;
+  --h4-font-size: 16px;
+  --h4-letter-spacing: 0px;
+  --h4-line-height: 18px;
+  --h4-font-style: normal;
+  --dropdown: 2px 16px 19px 0px rgba(0, 0, 0, 0.09);
+}

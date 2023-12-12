@@ -1,0 +1,320 @@
+.about-page-overview {
+  background-color: #1e1e1e;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.about-page-overview .div {
+  background-color: #1e1e1e;
+  width: 1440px;
+  height: 5413px;
+  position: relative;
+}
+
+.about-page-overview .overlap-group {
+  position: absolute;
+  width: 1440px;
+  height: 1617px;
+  top: 0;
+  left: 0;
+}
+
+.about-page-overview .image {
+  width: 1440px;
+  height: 517px;
+  top: 0;
+  left: 0;
+  position: absolute;
+  object-fit: cover;
+}
+
+.about-page-overview .rectangle {
+  position: absolute;
+  width: 1440px;
+  height: 447px;
+  top: 95px;
+  left: 0;
+  background: linear-gradient(180deg, rgba(30, 30, 30, 0) 0%, rgba(30, 30, 30, 0.87) 64.06%, rgb(30, 30, 30) 73.44%);
+}
+
+.about-page-overview .text-wrapper {
+  position: absolute;
+  height: 108px;
+  top: 405px;
+  left: 362px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: var(--light-red);
+  font-size: 41.7px;
+  letter-spacing: 0;
+  line-height: 107.5px;
+  white-space: nowrap;
+}
+
+.about-page-overview .p {
+  position: absolute;
+  width: 782px;
+  height: 1093px;
+  top: 524px;
+  left: 362px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20.8px;
+  letter-spacing: 0;
+  line-height: 40.5px;
+}
+
+.about-page-overview .vector {
+  position: absolute;
+  width: 39px;
+  height: 39px;
+  top: 445px;
+  left: 276px;
+}
+
+.about-page-overview .line {
+  height: 950px;
+  top: 532px;
+  position: absolute;
+  width: 7px;
+  left: 291px;
+}
+
+.about-page-overview .navbar {
+  position: absolute;
+  width: 914px;
+  height: 19px;
+  top: 39px;
+  left: 271px;
+}
+
+.about-page-overview .text-wrapper-2 {
+  left: 0;
+  position: absolute;
+  height: 19px;
+  top: 0;
+  font-family: "Poppins", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 20.4px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 18.3px;
+  white-space: nowrap;
+}
+
+.about-page-overview .text-wrapper-3 {
+  left: 176px;
+  position: absolute;
+  height: 19px;
+  top: 0;
+  font-family: "Poppins", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 20.4px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 18.3px;
+  white-space: nowrap;
+}
+
+.about-page-overview .text-wrapper-4 {
+  left: 313px;
+  position: absolute;
+  height: 19px;
+  top: 0;
+  font-family: "Poppins", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 20.4px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 18.3px;
+  white-space: nowrap;
+}
+
+.about-page-overview .text-wrapper-5 {
+  left: 460px;
+  position: absolute;
+  height: 19px;
+  top: 0;
+  font-family: "Poppins", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 20.4px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 18.3px;
+  white-space: nowrap;
+}
+
+.about-page-overview .text-wrapper-6 {
+  left: 559px;
+  position: absolute;
+  height: 19px;
+  top: 0;
+  font-family: "Poppins", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 20.4px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 18.3px;
+  white-space: nowrap;
+}
+
+.about-page-overview .text-wrapper-7 {
+  left: 671px;
+  position: absolute;
+  height: 19px;
+  top: 0;
+  font-family: "Poppins", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 20.4px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 18.3px;
+  white-space: nowrap;
+}
+
+.about-page-overview .text-wrapper-8 {
+  left: 803px;
+  position: absolute;
+  height: 19px;
+  top: 0;
+  font-family: "Poppins", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 20.4px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 18.3px;
+  white-space: nowrap;
+}
+
+.about-page-overview .text-wrapper-9 {
+  position: absolute;
+  height: 108px;
+  top: 219px;
+  left: 240px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: 107.5px;
+  white-space: nowrap;
+}
+
+.about-page-overview .text-wrapper-10 {
+  position: absolute;
+  height: 108px;
+  top: 1790px;
+  left: 362px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: var(--red);
+  font-size: 41.7px;
+  letter-spacing: 0;
+  line-height: 107.5px;
+  white-space: nowrap;
+}
+
+.about-page-overview .the-data-set {
+  position: absolute;
+  width: 782px;
+  top: 1909px;
+  left: 362px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20.8px;
+  letter-spacing: 0;
+  line-height: 40.5px;
+}
+
+.about-page-overview .text-wrapper-11 {
+  position: absolute;
+  height: 108px;
+  top: 3094px;
+  left: 362px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: var(--light-dark-red);
+  font-size: 41.7px;
+  letter-spacing: 0;
+  line-height: 107.5px;
+  white-space: nowrap;
+}
+
+.about-page-overview .our-website {
+  position: absolute;
+  width: 783px;
+  top: 3217px;
+  left: 361px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20.8px;
+  letter-spacing: 0;
+  line-height: 40.5px;
+}
+
+.about-page-overview .img {
+  top: 1826px;
+  position: absolute;
+  width: 39px;
+  height: 39px;
+  left: 275px;
+}
+
+.about-page-overview .line-2 {
+  height: 995px;
+  top: 1860px;
+  position: absolute;
+  width: 7px;
+  left: 291px;
+}
+
+.about-page-overview .vector-2 {
+  top: 3130px;
+  position: absolute;
+  width: 39px;
+  height: 39px;
+  left: 275px;
+}
+
+.about-page-overview .line-3 {
+  height: 1320px;
+  top: 3218px;
+  position: absolute;
+  width: 7px;
+  left: 291px;
+}
+
+.about-page-overview .text-wrapper-12 {
+  position: absolute;
+  width: 772px;
+  top: 5349px;
+  left: 333px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 40.5px;
+}
+
+.about-page-overview .image-2 {
+  width: 883px;
+  height: 307px;
+  top: 4894px;
+  left: 278px;
+  position: absolute;
+  object-fit: cover;
+}

@@ -1,0 +1,566 @@
+.introduction-page {
+  background-color: #1e1e1e;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.introduction-page .div {
+  background-color: #1e1e1e;
+  width: 1440px;
+  height: 5799.17px;
+  position: relative;
+}
+
+.introduction-page .overlap {
+  position: absolute;
+  width: 1440px;
+  height: 1027px;
+  top: 0;
+  left: 0;
+}
+
+.introduction-page .image {
+  position: absolute;
+  width: 1440px;
+  height: 943px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.introduction-page .rectangle {
+  height: 581px;
+  top: 372px;
+  background: linear-gradient(180deg, rgba(30, 30, 30, 0) 0%, rgba(30, 30, 30, 0.87) 64.06%, rgb(30, 30, 30) 73.44%);
+  position: absolute;
+  width: 1440px;
+  left: 0;
+}
+
+.introduction-page .hotel {
+  position: absolute;
+  width: 98px;
+  height: 125px;
+  top: 855px;
+  left: 939px;
+  object-fit: cover;
+}
+
+.introduction-page .MAP {
+  position: absolute;
+  width: 118px;
+  height: 103px;
+  top: 879px;
+  left: 1175px;
+  object-fit: cover;
+}
+
+.introduction-page .text-wrapper {
+  position: absolute;
+  width: 592px;
+  height: 81px;
+  top: 522px;
+  left: 319px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #d9d9d9;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 40.5px;
+}
+
+.introduction-page .text-wrapper-2 {
+  position: absolute;
+  height: 108px;
+  top: 703px;
+  left: 319px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: #ff6f73;
+  font-size: 33.3px;
+  letter-spacing: 0;
+  line-height: 107.5px;
+  white-space: nowrap;
+}
+
+.introduction-page .p {
+  position: absolute;
+  width: 451px;
+  height: 157px;
+  top: 811px;
+  left: 319px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 33.3px;
+  letter-spacing: 0;
+  line-height: 52.1px;
+}
+
+.introduction-page .rectangle-2 {
+  height: 84px;
+  top: 943px;
+  background: linear-gradient(180deg, rgba(30, 30, 30, 0) 0%, rgb(30, 30, 30) 73.44%);
+  position: absolute;
+  width: 1440px;
+  left: 0;
+}
+
+.introduction-page .navbar {
+  position: absolute;
+  width: 914px;
+  height: 19px;
+  top: 39px;
+  left: 271px;
+}
+
+.introduction-page .text-wrapper-3 {
+  left: 0;
+  position: absolute;
+  height: 19px;
+  top: 0;
+  font-family: "Poppins", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 20.4px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 18.3px;
+  white-space: nowrap;
+}
+
+.introduction-page .text-wrapper-4 {
+  left: 176px;
+  position: absolute;
+  height: 19px;
+  top: 0;
+  font-family: "Poppins", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 20.4px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 18.3px;
+  white-space: nowrap;
+}
+
+.introduction-page .text-wrapper-5 {
+  left: 313px;
+  position: absolute;
+  height: 19px;
+  top: 0;
+  font-family: "Poppins", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 20.4px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 18.3px;
+  white-space: nowrap;
+}
+
+.introduction-page .text-wrapper-6 {
+  left: 460px;
+  position: absolute;
+  height: 19px;
+  top: 0;
+  font-family: "Poppins", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 20.4px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 18.3px;
+  white-space: nowrap;
+}
+
+.introduction-page .text-wrapper-7 {
+  left: 559px;
+  position: absolute;
+  height: 19px;
+  top: 0;
+  font-family: "Poppins", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 20.4px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 18.3px;
+  white-space: nowrap;
+}
+
+.introduction-page .text-wrapper-8 {
+  left: 671px;
+  position: absolute;
+  height: 19px;
+  top: 0;
+  font-family: "Poppins", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 20.4px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 18.3px;
+  white-space: nowrap;
+}
+
+.introduction-page .text-wrapper-9 {
+  left: 803px;
+  position: absolute;
+  height: 19px;
+  top: 0;
+  font-family: "Poppins", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 20.4px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 18.3px;
+  white-space: nowrap;
+}
+
+.introduction-page .asset {
+  position: absolute;
+  width: 49px;
+  height: 124px;
+  top: 304px;
+  left: 319px;
+  object-fit: cover;
+}
+
+.introduction-page .airbnb-insights {
+  position: absolute;
+  width: 421px;
+  height: 134px;
+  top: 304px;
+  left: 404px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 600;
+  color: transparent;
+  font-size: 66.7px;
+  letter-spacing: 0;
+  line-height: 66.8px;
+}
+
+.introduction-page .span {
+  color: #ff5a5f;
+}
+
+.introduction-page .text-wrapper-10 {
+  color: #ffffff;
+}
+
+.introduction-page .vector {
+  position: absolute;
+  width: 71px;
+  height: 82px;
+  top: 747px;
+  left: 1228px;
+  object-fit: cover;
+}
+
+.introduction-page .plane {
+  position: absolute;
+  width: 107px;
+  height: 97px;
+  top: 361px;
+  left: 1188px;
+  object-fit: cover;
+}
+
+.introduction-page .tag {
+  position: absolute;
+  width: 97px;
+  height: 97px;
+  top: 703px;
+  left: 1053px;
+  object-fit: cover;
+}
+
+.introduction-page .cloud {
+  position: absolute;
+  width: 122px;
+  height: 89px;
+  top: 484px;
+  left: 1056px;
+  object-fit: cover;
+}
+
+.introduction-page .location {
+  position: absolute;
+  width: 96px;
+  height: 109px;
+  top: 573px;
+  left: 1213px;
+  object-fit: cover;
+}
+
+.introduction-page .orange-star {
+  position: absolute;
+  width: 92px;
+  height: 92px;
+  top: 280px;
+  left: 1065px;
+  object-fit: cover;
+}
+
+.introduction-page .green-star {
+  position: absolute;
+  width: 44px;
+  height: 44px;
+  top: 857px;
+  left: 1136px;
+  object-fit: cover;
+}
+
+.introduction-page .line {
+  height: 649px;
+  top: 304px;
+  left: 201px;
+  position: absolute;
+  width: 7px;
+}
+
+.introduction-page .in-the-urban {
+  position: absolute;
+  width: 944px;
+  height: 53px;
+  top: 2399px;
+  left: 250px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 33.3px;
+  letter-spacing: 0;
+  line-height: 52.1px;
+}
+
+.introduction-page .text-wrapper-11 {
+  font-weight: 500;
+  color: #ff6f73;
+}
+
+.introduction-page .overlap-group {
+  position: absolute;
+  width: 1038px;
+  height: 499px;
+  top: 2517px;
+  left: 201px;
+  background-color: #2e2e2e;
+  border-radius: 13.33px;
+  box-shadow: inset 0px 0px 0px 2.5px #ffffff21;
+}
+
+.introduction-page .a-quiet-yet-seismic {
+  position: absolute;
+  width: 922px;
+  height: 369px;
+  top: 64px;
+  left: 58px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 46.1px;
+}
+
+.introduction-page .text-wrapper-12 {
+  position: absolute;
+  width: 292px;
+  height: 53px;
+  top: 4050px;
+  left: 241px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: #ffb2b4;
+  font-size: 33.3px;
+  letter-spacing: 0;
+  line-height: 52.1px;
+}
+
+.introduction-page .overlap-2 {
+  position: absolute;
+  width: 828px;
+  height: 252px;
+  top: 3121px;
+  left: 362px;
+}
+
+.introduction-page .text-wrapper-13 {
+  position: absolute;
+  width: 828px;
+  height: 157px;
+  top: 95px;
+  left: 0;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: 52.1px;
+}
+
+.introduction-page .text-wrapper-14 {
+  position: absolute;
+  width: 188px;
+  height: 108px;
+  top: 0;
+  left: 0;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #b7b7b7;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 107.5px;
+  white-space: nowrap;
+}
+
+.introduction-page .our-mission-is-to-wrapper {
+  position: absolute;
+  width: 1038px;
+  height: 499px;
+  top: 1136px;
+  left: 201px;
+  background-color: #2e2e2e;
+  border-radius: 13.33px;
+  box-shadow: inset 0px 0px 0px 2.5px #ffffff21;
+}
+
+.introduction-page .our-mission-is-to {
+  position: absolute;
+  width: 848px;
+  height: 365px;
+  top: 66px;
+  left: 95px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 40.5px;
+}
+
+.introduction-page .text-wrapper-15 {
+  font-weight: 500;
+  color: #ff979b;
+}
+
+.introduction-page .div-wrapper {
+  position: absolute;
+  width: 855px;
+  height: 456px;
+  top: 3419px;
+  left: 348px;
+  background-color: #2e2e2e;
+  border-radius: 13.33px;
+  box-shadow: inset 0px 0px 0px 2.5px #ffffff21;
+}
+
+.introduction-page .text-wrapper-16 {
+  position: absolute;
+  width: 704px;
+  top: 66px;
+  left: 75px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 46.1px;
+}
+
+.introduction-page .the-rising-prices {
+  position: absolute;
+  width: 757px;
+  top: 4139px;
+  left: 361px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 40.5px;
+}
+
+.introduction-page .text-wrapper-17 {
+  position: absolute;
+  width: 612px;
+  top: 4713px;
+  left: 361px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 40.5px;
+}
+
+.introduction-page .overlap-3 {
+  position: absolute;
+  width: 363px;
+  height: 540px;
+  top: 4779px;
+  left: 1077px;
+}
+
+.introduction-page .text-wrapper-18 {
+  position: absolute;
+  top: 158px;
+  left: 113px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #272727;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 40.5px;
+  white-space: nowrap;
+}
+
+.introduction-page .earth {
+  position: absolute;
+  width: 363px;
+  height: 540px;
+  top: 0;
+  left: 0;
+}
+
+.introduction-page .img {
+  position: absolute;
+  width: 941px;
+  height: 435px;
+  top: 1823px;
+  left: 249px;
+}
+
+.introduction-page .line-2 {
+  height: 673px;
+  top: 3176px;
+  left: 242px;
+  position: absolute;
+  width: 7px;
+}
+
+.introduction-page .line-3 {
+  height: 1193px;
+  top: 4155px;
+  left: 241px;
+  position: absolute;
+  width: 7px;
+}
+
+.introduction-page .text-wrapper-19 {
+  position: absolute;
+  width: 772px;
+  top: 5735px;
+  left: 333px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 40.5px;
+}
